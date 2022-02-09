@@ -13,18 +13,18 @@ Thes Agent está em desenvolvimento desde 2021 na plataforma Unity e utilizando 
 
 ## Features
 
-Sistema de narração através de texto e dublagem.
-Textos em Português(BR) e Inglês(US).
-Dublagem em Português(BR).
-Criação de ficha de personagem.
-Sistema de controle de pontos de vida.
-Sistema de coleta de anotações.
-Sistema de coleta de áudios.
-Sistema de coleta de itens.
-Sistema de decisões.
-Sistema de testes.
-Sistema de notificações.
-Sistema de armazenamento de decisões/testes.
+- Sistema de narração através de texto e dublagem.
+- Textos em Português(BR) e Inglês(US).
+- Dublagem em Português(BR).
+- Criação de ficha de personagem.
+- Sistema de controle de pontos de vida.
+- Sistema de coleta de anotações.
+- Sistema de coleta de áudios.
+- Sistema de coleta de itens.
+- Sistema de decisões.
+- Sistema de testes.
+- Sistema de notificações.
+- Sistema de armazenamento de decisões/testes.
 
 ## Vídeos
 
@@ -73,9 +73,10 @@ Um studio de desenvolvimento de Games de Americana/SP, criado para desenvolver j
 
 ## Créditos
 
-[Eduardo Queiróz](https://leduqueiroz.github.io/)
 - Design & Code
+[Eduardo Queiróz]: (https://leduqueiroz.github.io/)
 
 ## Contatos
 
-Email: marketing@dz9games.com
+[Email](mailto:marketing@dz9games.com?subject=[GitHub]%20Source%20Han%20Sans)
+
