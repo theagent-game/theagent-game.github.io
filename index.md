@@ -74,7 +74,7 @@ Um studio de desenvolvimento de Games de Americana/SP, criado para desenvolver j
 ## Créditos
 
 - Design & Code
-[Eduardo Queiróz]: (https://leduqueiroz.github.io/)
+[Eduardo Queiróz](https://leduqueiroz.github.io/)
 
 ## Contatos
 
