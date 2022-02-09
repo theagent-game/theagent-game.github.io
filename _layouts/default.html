@@ -29,9 +29,7 @@
           {% if site.logo %}
             <img class="img-circle" rel="prefetch" src="{{site.logo | relative_url}}" alt="Logo">
           {% endif %}
-
-          <h4><b>Factsheet</b></h4>
-          
+        
           <dl>
             <dt>Desenvolvedores:</dt>
             <dd>DZ9GAMES, Americana/SP - Brasil</dd>
@@ -43,16 +41,11 @@
             <dd>Steam</dd>
             <dd>itch.io</dd>
             <dd>GOG</dd>
-            
-            <dt>Website:</dt>
-            <dd>theagent.dz9games.com</dd>
           </dl>      
 
           {% if site.email %}
             <p class="addr"><i class="fa-regular fa-envelope"></i>&nbsp;{{ site.email }}</p>
           {% endif %}
-
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
 
           {% include sidebar.html %}
 
