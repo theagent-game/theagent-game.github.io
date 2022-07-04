@@ -34,24 +34,28 @@ Teaser
 
 ## Imagens
 
-![image](https://user-images.githubusercontent.com/85421934/153255399-09eb65ea-fa99-426b-9864-930250c18590.png)
+- Dialogue & Speech
 
-![image](https://user-images.githubusercontent.com/85421934/153255526-a173ef12-45ef-4af4-a5f8-245c84986198.png)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/dialog.jpeg)
 
-![image](https://user-images.githubusercontent.com/85421934/153255575-776c2c8e-c2ff-4ce9-b538-f85ef0781107.png)
+- Tutorial
 
-![image](https://user-images.githubusercontent.com/85421934/153255704-4fd03f7f-a535-447d-a1fa-351145cbe861.png)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/tutorial.jpeg)
 
-![image](https://user-images.githubusercontent.com/85421934/153255773-ab913a12-603c-490d-bf69-cc9fc246564c.png)
+- Dialogue Choice
 
-![image](https://user-images.githubusercontent.com/85421934/153255805-41df962e-0704-416c-84f2-a73bf84dbb75.png)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/dialogchoice.jpg)
 
-![image](https://user-images.githubusercontent.com/85421934/153255918-853511b0-2dc1-41ce-b90e-4183069ae001.png)
+- Guided Tutorial
 
-![image](https://user-images.githubusercontent.com/85421934/153255958-bb74ab95-b9cd-49b3-b4b7-377b2a8eed22.png)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/guided1.jpeg)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/guided2.jpeg)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/guided3.jpeg)
 
-![image](https://user-images.githubusercontent.com/85421934/153256367-c809a832-5189-45f6-9597-896e7024e05e.png)
+- Dice Test
 
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/dice1.jpg)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/dice2.jpg)
 
 ## Logo e ícones
 
@@ -75,6 +79,9 @@ Um studio de desenvolvimento de Games de Americana/SP, criado para desenvolver j
 
 - Design & Code
 [Eduardo Queiróz](https://leduqueiroz.github.io/)
+
+- Arts
+[Guilherme Carossi](https://www.instagram.com/gui_carossi/)
 
 ## Contatos
 
