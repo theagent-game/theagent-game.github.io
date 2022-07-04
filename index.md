@@ -57,6 +57,15 @@ Teaser
 ![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/dice1.jpg)
 ![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/dice2.jpg)
 
+- Title Screen
+- Cutscenes & Story
+- Modal: Exit Game
+- Pause
+- Quests
+- Inventory
+- Codex & Jornal
+- Battle
+
 ## Logo e ícones
 
 ![gamelogo](https://user-images.githubusercontent.com/85421934/153256779-ba109384-7bd4-48b3-ba9b-241295165f7c.png)
