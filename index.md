@@ -9,7 +9,7 @@ Nesse ambiente ajude a personagem em sua jornada resolvendo seus dilemas, coleta
 
 ## História
 
-Thes Agent está em desenvolvimento desde 2021 na plataforma Unity e utilizando a linguagem c# e nasceu durante estudos pessoais sobre as engines para desenvolvimento de games. Durante esses estudos o framework de Visual/Novel e testes de rolagem de dados de The Agent foi finalizado e desde então novas features como (escolhas da comunidade, localização, menus, etc.. entraram em desenvolvimento). No momento atual as ilustrações de personagens e backgrounds estão em andamento com previsão de finalização ainda no primeiro semestre.
+Thes Agent está em desenvolvimento desde 2021 na plataforma Unity e utilizando a linguagem c# e nasceu durante estudos pessoais sobre as engines para desenvolvimento de games. Durante esses estudos o framework de Visual/Novel e testes de rolagem de dados de The Agent foi finalizado e desde então novas features como (escolhas da comunidade, localização, menus, etc.. entraram em desenvolvimento). No momento atual as ilustrações de personagens e backgrounds estão em andamento com previsão de finalização até o segundo semestre de 2022.
 
 ## Features
 
