@@ -30,7 +30,7 @@ Thes Agent está em desenvolvimento desde 2021 na plataforma Unity e utilizando 
 
 Teaser 1 (PT/BR)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZFnDmaZH7KA/0.jpg)](https://www.youtube.com/watch?v=S_tIvQGfpO8)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/S_tIvQGfpO8/0.jpg)](https://www.youtube.com/watch?v=S_tIvQGfpO8)
 
 Teaser 2 (PT/BR - EN/US)
 
