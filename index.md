@@ -56,6 +56,9 @@ Teaser 2 (PT/BR - EN/US)
 ![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/guided2.jpeg)
 ![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/guided3.jpeg)
 
+- Character Sheet
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/sheet.jpeg)
+
 - Dice Test
 
 ![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/dice1.jpg)
