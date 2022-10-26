@@ -31,19 +31,21 @@ Thes Agent está em desenvolvimento desde 2021 na plataforma Unity e utilizando 
 
 ## Logo e ícones
 
-White
+White ->
+
 ![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/gamelogo-wth.png)
 
-Black
+Black ->
+
 ![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/gamelogo-bck.png)
 
 ## Vídeos
 
-Teaser 1 (PT/BR)
+Teaser 1 (PT/BR) ->
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/S_tIvQGfpO8/0.jpg)](https://www.youtube.com/watch?v=S_tIvQGfpO8)
 
-Teaser 2 (PT/BR - EN/US)
+Teaser 2 (PT/BR - EN/US) ->
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZFnDmaZH7KA/0.jpg)](https://www.youtube.com/watch?v=ZFnDmaZH7KA)
 
@@ -51,36 +53,36 @@ Teaser 2 (PT/BR - EN/US)
 
 - Notify & Tutorial
 
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Notify.png)
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Tutorial-1.png)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Notify.PNG)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Tutorial-1.PNG)
 
 - Character Sheet
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Char.png)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Char.PNG)
 
 - Dialogue, Speech & Choices
 
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Choices-1.png)
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Choices-2.png)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Choices-1.PNG)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Choices-2.PNG)
 
 - Inventory List & Detail
 
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Inventory.png)
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/inventory-1.png)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Inventory.PNG)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/inventory-1.PNG)
 
 - Map Pieces & Quests
 
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Map-1.png)
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Map-2.png)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Map-1.PNG)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Map-2.PNG)
 
 - Dice Test, Lobby & Retry
 
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Test-Dice.png)
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Test-Lobby-1.png)
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Test-Lobby-2.png)
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Test-Lobby-3.png)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Test-Dice.PNG)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Test-Lobby-1.PNG)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Test-Lobby-2.PNG)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Test-Lobby-3.PNG)
 
 - Chapter Stars & Log
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Stars.png)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Stars.PNG)
 
 - Title Screen (under development)
 - Cutscenes (under development)
