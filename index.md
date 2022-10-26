@@ -13,18 +13,29 @@ Thes Agent está em desenvolvimento desde 2021 na plataforma Unity e utilizando 
 
 ## Features
 
-- Sistema de narração através de texto e dublagem.
-- Textos em Português(BR) e Inglês(US).
-- Dublagem em Português(BR).
-- Criação de ficha de personagem.
+- Legendas em Português(BR) e Inglês(US).
+- Sistema de narração através de texto.
+- Sistema de criação de ficha de personagem.
 - Sistema de controle de pontos de vida.
 - Sistema de coleta de anotações.
-- Sistema de coleta de áudios.
 - Sistema de coleta de itens.
 - Sistema de decisões.
 - Sistema de testes.
 - Sistema de notificações.
 - Sistema de armazenamento de decisões/testes.
+- Sistema de mapas.
+- Sistema de batalhas.
+- Sistema de missões.
+- Sistema de desempenho.
+- 3 Finais alternativos.
+
+## Logo e ícones
+
+White
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/gamelogo-wth.png)
+
+Black
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/gamelogo-bck.png)
 
 ## Vídeos
 
@@ -38,46 +49,43 @@ Teaser 2 (PT/BR - EN/US)
 
 ## Imagens
 
-- Dialogue & Speech
+- Notify & Tutorial
 
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/dialog.jpeg)
-
-- Tutorial
-
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/tutorial.jpeg)
-
-- Dialogue Choice
-
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/dialogchoice.jpg)
-
-- Guided Tutorial
-
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/guided1.jpeg)
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/guided2.jpeg)
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/guided3.jpeg)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Notify.png)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Tutorial-1.png)
 
 - Character Sheet
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/sheet.jpg)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Char.png)
 
-- Dice Test
+- Dialogue, Speech & Choices
 
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/dice1.jpg)
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/dice2.jpg)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Choices-1.png)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Choices-2.png)
 
-- Title Screen
-- Cutscenes & Story
-- Modal: Exit Game
-- Pause
-- Quests
-- Inventory
-- Codex & Jornal
-- Battle
+- Inventory List & Detail
 
-## Logo e ícones
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Inventory.png)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/inventory-1.png)
 
-![gamelogo](https://user-images.githubusercontent.com/85421934/153256779-ba109384-7bd4-48b3-ba9b-241295165f7c.png)
+- Map Pieces & Quests
 
-![gamelogo-bck](https://user-images.githubusercontent.com/85421934/153256796-c4c7f1d5-b984-4b1d-ae68-9c99a54d427f.png)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Map-1.png)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Map-2.png)
+
+- Dice Test, Lobby & Retry
+
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Test-Dice.png)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Test-Lobby-1.png)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Test-Lobby-2.png)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Test-Lobby-3.png)
+
+- Chapter Stars & Log
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Stars.png)
+
+- Title Screen (under development)
+- Cutscenes (under development)
+- Modal: Exit Game (under development)
+- Battle (under development)
 
 ## Artigos
 
