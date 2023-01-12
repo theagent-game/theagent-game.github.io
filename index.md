@@ -49,28 +49,32 @@ Thes Agent está em desenvolvimento desde 2021 na plataforma Unity e utilizando 
 
 ## Logotipo & Icones / Logo & Icons
 
-Branco / White ->
+Branco / White
 
 ![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/gamelogo-wth.png)
 
-Preto / Black ->
+Preto / Black
 
 ![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/gamelogo-bck.png)
 
 ## Vídeos / Videos
 
-Teaser 1 (:brazil: :us:) ->
+Teaser 1 :brazil: :us:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZFnDmaZH7KA/0.jpg)](https://www.youtube.com/watch?v=ZFnDmaZH7KA)
 
-Teaser 2 (:brazil:) ->
+Teaser 2 :brazil:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/S_tIvQGfpO8/0.jpg)](https://www.youtube.com/watch?v=S_tIvQGfpO8)
 
-Trailer de anúncio / Reveal trailer: --
-Trailer de lançamento / Release trailer: --
-Anúncio da data de lançamento / Release date announcement: --
-Análise dos desenvolvedores / Developers spotlight: --
+Trailer de anúncio / Reveal trailer: --  
+
+Trailer de lançamento / Release trailer: --  
+
+Anúncio da data de lançamento / Release date announcement: --  
+
+Análise dos desenvolvedores / Developers spotlight: --  
+
 
 ## Imagens / Images
 
@@ -79,7 +83,8 @@ Análise dos desenvolvedores / Developers spotlight: --
 ![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Notify.PNG)
 ![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Tutorial-1.PNG)
 
-- Ficha de personagem / Character Sheet
+- Ficha de personagem / Character Sheet  
+
 ![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Char.PNG)
 
 - Diálogo & Escolhas / Dialogue, Speech & Choices
@@ -132,16 +137,13 @@ Um studio de desenvolvimento de Games de Americana/SP, criado para desenvolver j
 
 ## Credits / Créditos
 
-- Desenvolvimento & Código / Design & Code
-[Eduardo Queiróz](https://leduqueiroz.github.io/)
+- Desenvolvimento & Código / Design & Code: [Eduardo Queiróz](https://leduqueiroz.github.io/)
 
-- Ilustrações / Illustrations
-[Guilherme Carossi](https://www.instagram.com/gui_carossi/)
+- Ilustrações / Illustrations: [Guilherme Carossi](https://www.instagram.com/gui_carossi/)
 
-- Roteiro / Script
-[Gustavo Oliveira](https://theagent.dz9games.com/)
+- Roteiro / Script: [Gustavo Oliveira](https://theagent.dz9games.com/)
 
 ## Contatos / Contact
 
-[Email](mailto:marketing@dz9games.com?subject=[GitHub]%20Source%20Han%20Sans)
+[Email - Marketing DZ9 Games](mailto:marketing@dz9games.com?subject=[GitHub]%20Source%20Han%20Sans)
 
