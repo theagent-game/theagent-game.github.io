@@ -59,13 +59,21 @@ Preto / Black
 
 ## Vídeos / Videos
 
-Teaser 1 :brazil: :us:
+Teaser 3 :brazil:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZFnDmaZH7KA/0.jpg)](https://www.youtube.com/watch?v=ZFnDmaZH7KA)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JUSFFxYMpzw/0.jpg)](https://youtu.be/JUSFFxYMpzw)
+
+Teaser 3 :us:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CJOJcSvGJ0U/0.jpg)](https://youtu.be/CJOJcSvGJ0U)
 
 Teaser 2 :brazil:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/S_tIvQGfpO8/0.jpg)](https://www.youtube.com/watch?v=S_tIvQGfpO8)
+
+Teaser 1 :brazil: :us:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZFnDmaZH7KA/0.jpg)](https://www.youtube.com/watch?v=ZFnDmaZH7KA)
 
 Trailer de anúncio / Reveal trailer: --  
 
