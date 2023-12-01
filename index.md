@@ -101,39 +101,32 @@ Análise dos desenvolvedores / Developers spotlight: --
 
 ## Imagens / Images
 
+- Diálogo & Escolhas / Dialogue, Speech & Choices
+
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/sys-narrative.png)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/sys-choice.png)
+
 - Notificação & Tutorial / Notify & Tutorial
 
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Notify.PNG)
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Tutorial-1.PNG)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/sys-notify.png)
 
 - Ficha de personagem / Character Sheet  
 
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Char.PNG)
-
-- Diálogo & Escolhas / Dialogue, Speech & Choices
-
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Choices-1.PNG)
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Choices-2.PNG)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/sys.char.png)
 
 - Inventário & detalhes / Inventory & Detail
 
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Inventory.PNG)
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/inventory-1.PNG)
-
-- Mapa & Missões / Map & Quests
-
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Map-1.PNG)
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Map-2.PNG)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/sys-inventory.png)
 
 - Teste de dados, Lobby & retentativas / Dice Test, Lobby & Retry
 
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Test-Dice.PNG)
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Test-Lobby-1.PNG)
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Test-Lobby-2.PNG)
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Test-Lobby-3.PNG)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/sys-test-1.png)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/sys-test-2.png)
 
-- Desempenho & Log / Chapter Stars & Log
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/Stars.PNG)
+- Investigação / Investigation
+
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/sys-investigation-1.png)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/sys-investigation-2.png)
 
 - Title Screen (under development)
 - Cutscenes (under development)
