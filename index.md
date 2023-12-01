@@ -17,9 +17,11 @@ Nesse ambiente ajude a personagem em sua jornada resolvendo seus dilemas, coleta
 
 :brazil:
 
-Thes Agent está em desenvolvimento desde 2021 na plataforma Unity e utilizando a linguagem c# e nasceu durante estudos pessoais sobre as engines para desenvolvimento de games. Durante esses estudos o framework de Visual/Novel e testes de rolagem de dados de The Agent foi finalizado e desde então novas features como (escolhas da comunidade, localização, menus, etc.. entraram em desenvolvimento). No momento atual as ilustrações de personagens e backgrounds estão em andamento com previsão de finalização até o segundo semestre de 2022.
+The Agent está em desenvolvimento desde 2021 na plataforma Unity e utilizando a linguagem c# e nasceu durante estudos pessoais sobre as engines para desenvolvimento de games. Durante esses estudos o framework de Visual/Novel e testes de rolagem de dados de The Agent foi finalizado e desde então novas features como (escolhas da comunidade, localização, menus, etc.. entraram em desenvolvimento). No momento atual as ilustrações de personagens e backgrounds estão em andamento, o roteiro do prólogo foi finalizado e a versão com esse capítulo está em teste.
 
 :us:
+
+"The Agent" has been in development since 2021 on the Unity platform, using the C# programming language. It originated from personal studies about game development engines. Throughout these studies, the Visual/Novel framework and dice rolling tests for "The Agent" were completed. Since then, new features such as community choices, localization, menus, etc., have been in development. Currently, character illustrations and backgrounds are in progress, the prologue script has been finalized, and the version with this chapter is undergoing testing.
 
 --
 
@@ -28,23 +30,36 @@ Thes Agent está em desenvolvimento desde 2021 na plataforma Unity e utilizando 
 :brazil:
 
 - Legendas em Português(BR) e Inglês(US).
-- Sistema de narração através de texto.
-- Sistema de criação de ficha de personagem.
-- Sistema de controle de pontos de vida.
-- Sistema de coleta de anotações.
-- Sistema de coleta de itens.
-- Sistema de decisões.
-- Sistema de testes.
+- Narração através de texto.
+- Log de narração em ordem decrescente. 
+- Criação de ficha de personagem.
+- Sistema de escolhas.
+- Sistema de investigação.
+- Coleta de anotações.
+- Coleta de colecionáveis.
+- Sistema de casos secundários.
+- Arquivos de casos secundários investigados.
+- Sistema de testes de atributos.
 - Sistema de notificações.
 - Sistema de armazenamento de decisões/testes.
-- Sistema de mapas.
 - Sistema de batalhas.
-- Sistema de missões.
-- Sistema de desempenho.
-- 3 Finais alternativos.
 
 :us:
 
+- Subtitles in Portuguese (BR) and English (US).
+- Narration through text.
+- Narration log in descending order.
+- Character sheet creation.
+- Choice system.
+- Investigation system.
+- Collection of notes.
+- Collection of collectibles.
+- Secondary cases system.
+- Investigated secondary cases files.
+- Attribute tests system.
+- Notifications system.
+- Decision/tests storage system.
+- Battle system.
 --
 
 ## Logotipo & Icones / Logo & Icons
@@ -82,7 +97,6 @@ Trailer de lançamento / Release trailer: --
 Anúncio da data de lançamento / Release date announcement: --  
 
 Análise dos desenvolvedores / Developers spotlight: --  
-
 
 ## Imagens / Images
 
