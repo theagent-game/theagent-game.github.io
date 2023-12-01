@@ -152,9 +152,11 @@ Análise dos desenvolvedores / Developers spotlight: --
 
 :brazil:
 
-Um studio de desenvolvimento de Games de Americana/SP, criado para desenvolver jogos independentes e que atualmente trabalha em seu primeiro título comercial: The Agent.
+Um estúdio de desenvolvimento de jogos sediado em Americana, São Paulo, foi criado com o propósito de desenvolver jogos independentes. Atualmente, está focado no desenvolvimento de seu primeiro título comercial: "The Agent"
 
 :us:
+
+A game development studio based in Americana, São Paulo, was created to develop independent games. Currently, it is working on its first commercial title: 'The Agent.'"
 
 --
 
