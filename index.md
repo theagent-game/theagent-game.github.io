@@ -35,6 +35,7 @@ The Agent está em desenvolvimento desde 2021 na plataforma Unity e utilizando a
 - Criação de ficha de personagem.
 - Sistema de escolhas.
 - Sistema de investigação.
+- Sistema de exploração de áreas.
 - Coleta de anotações.
 - Coleta de colecionáveis.
 - Sistema de casos secundários.
@@ -43,6 +44,7 @@ The Agent está em desenvolvimento desde 2021 na plataforma Unity e utilizando a
 - Sistema de notificações.
 - Sistema de armazenamento de decisões/testes.
 - Sistema de batalhas.
+- Sistema de interrogatório.
 
 :us:
 
@@ -52,6 +54,7 @@ The Agent está em desenvolvimento desde 2021 na plataforma Unity e utilizando a
 - Character sheet creation.
 - Choice system.
 - Investigation system.
+- Area exploration system
 - Collection of notes.
 - Collection of collectibles.
 - Secondary cases system.
@@ -60,6 +63,7 @@ The Agent está em desenvolvimento desde 2021 na plataforma Unity e utilizando a
 - Notifications system.
 - Decision/tests storage system.
 - Battle system.
+- Interrogation system.
 
 --
 
@@ -123,15 +127,29 @@ Análise dos desenvolvedores / Developers spotlight: --
 ![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/sys-test-1.png)
 ![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/sys-test-2.png)
 
+- Exploração de Áreas / Area Exploration
+
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/sys-area-1.png)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/sys-area-2.png)
+
+- Interrogatório / Interrogation
+
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/sys-interrog-1.png)
+
 - Investigação / Investigation
 
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/sys-investigation-1.png)
-![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/sys-investigation-2.png)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/sys-files.png)
 
 - Title Screen (under development)
-- Cutscenes (under development)
-- Modal: Exit Game (under development)
+
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/sys-menu.png)
+
 - Battle (under development)
+
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/sys-battle-1.png)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/sys-battle-2.png)
+![image](https://raw.githubusercontent.com/theagent-game/theagent-game.github.io/main/assets/img/sys-battle-3.png)
+
 
 ## Articles / Artigos
 
