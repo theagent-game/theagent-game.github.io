@@ -6,22 +6,33 @@ layout: default
 
 :brazil:
 
-The Agent é uma jogo de RPG/Visual Novel com uma narração emocional e cheia de escolhas que ter leva ao Brasil de 1964 onde o clima de conflito das ruas com os militares prestes a aplicar um golpe militar fica de lado quando uma ameaça invisível faz com que as pessoas desapareçam sem nenhuma explicação.
-Nesse ambiente ajude a personagem em sua jornada resolvendo seus dilemas, coletando itens e resolvendo desafios. Mas lembre-se: suas escolhas são importantes e serão refletidas durante a narração e você tambem precisará contar com a sorte nos dados que podem literalmente mudar seu destino e te levar de maneiras distintas para o grande final.
+The Agent - A Role Playing Game, te leva até o Rio de Janeiro de 1964, um cenário conturbado à beira de um golpe militar. Encarne Nicolle, uma agente destemida de um órgão secreto do governo, mergulhando de cabeça em uma investigação sobre misteriosos desaparecimentos. Contudo, Nicolle se vê envolvida em um enredo de terror sobrenatural que ameaça sua própria sanidade. Enfrente desafios épicos, desde batalhas intensas até traições e segredos obscuros que influenciam o desenrolar da trama. Cada escolha sua moldará o caminho a ser percorrido, revelando desfechos distintos ao longo da jornada.
+
+"The Agent - A Role Playing Game" mescla elementos de RPG e Visual Novel, proporcionando a criação e personalização do seu próprio personagem. Explore os recantos do Rio de Janeiro dos anos 60, investigue minuciosamente cada área, interrogue personagens-chave e descubra pistas ocultas para avançar na história.
+Prepare-se para uma experiência repleta de suspense, perigos constantes e desafios que colocarão à prova sua habilidade em superar obstáculos e manter sua lucidez diante do caos e dos mistérios que permeiam essa trama envolvente.
+									
+O seu destino está lançado, está preparado para o desafio?
 
 :us:
 
+The Agent - A Role Playing Game transports you to Rio de Janeiro in 1964, a tumultuous setting on the brink of a military coup. Step into the shoes of Nicolle, a fearless agent from a secret government agency, diving headfirst into an investigation of mysterious disappearances. However, Nicolle finds herself entangled in a supernatural terror plot that threatens her sanity. Confront epic challenges, from intense battles to betrayals and dark secrets that shape the course of the story. Every choice you make will mold the path ahead, unveiling distinct outcomes throughout the journey.
+                    
+"The Agent - A Role Playing Game" blends RPG and Visual Novel elements, allowing you to create and customize your own character. Explore the corners of 1960s Rio de Janeiro, meticulously investigate each area, interrogate key characters, and uncover hidden clues to progress in the story. 
+Get ready for an experience filled with suspense, constant perils, and challenges that will test your ability to overcome obstacles and maintain your sanity amid the chaos and mysteries that weave through this captivating narrative.
+                    
+Your destiny is in motion, are you prepared for the challenge?
+                    
 --
 
 ## História / History
 
 :brazil:
 
-The Agent está em desenvolvimento desde 2021 na plataforma Unity e utilizando a linguagem c# e nasceu durante estudos pessoais sobre as engines para desenvolvimento de games. Durante esses estudos o framework de Visual/Novel e testes de rolagem de dados de The Agent foi finalizado e desde então novas features como (escolhas da comunidade, localização, menus, etc.. entraram em desenvolvimento). No momento atual as ilustrações de personagens e backgrounds estão em andamento, o roteiro do prólogo foi finalizado e a versão com esse capítulo está em teste.
+The Agent está em desenvolvimento desde 2021 na plataforma Unity e utilizando a linguagem c# e nasceu durante estudos pessoais sobre as engines para desenvolvimento de games. Durante esses estudos o framework de Visual/Novel e testes de rolagem de dados de The Agent foi finalizado e desde então novas features como sistema de escolhas, batalhas, investigação, localização, menus, etc.. entraram em desenvolvimento. No momento atual as ilustrações de personagens e backgrounds foram finalizados e estão em fase de revisão, o roteiro do prólogo foi finalizado e a versão com esse capítulo está em testes e fase final de tradução para o inglês.
 
 :us:
 
-"The Agent" has been in development since 2021 on the Unity platform, using the C# programming language. It originated from personal studies about game development engines. Throughout these studies, the Visual/Novel framework and dice rolling tests for "The Agent" were completed. Since then, new features such as community choices, localization, menus, etc., have been in development. Currently, character illustrations and backgrounds are in progress, the prologue script has been finalized, and the version with this chapter is undergoing testing.
+"The Agent" has been in development since 2021 on the Unity platform using C# language. It was born during personal studies about game development engines. During these studies, The Agent's Visual/Novel framework and dice rolling tests were completed, and since then, new features such as choice system, battles, investigation, localization, menus, etc. have been in development. Currently, character illustrations and backgrounds have been finalized and are in the revision phase. The prologue script has been completed, and the version with this chapter is undergoing testing and final translation into English.
 
 --
 
@@ -173,11 +184,21 @@ A game development studio based in Americana, São Paulo, was created to develop
 
 ## Credits / Créditos
 
-- Desenvolvimento & Código / Design & Code: [Eduardo Queiróz](https://leduqueiroz.github.io/)
+:brazil:
 
-- Ilustrações / Illustrations: [Guilherme Carossi](https://www.instagram.com/gui_carossi/)
+- Desenvolvimento & Código: [Eduardo Queiróz](https://leduqueiroz.github.io/)
 
-- Roteiro / Script: [Gustavo Oliveira](https://theagent.dz9games.com/)
+- Ilustrações: [Guilherme Carossi](https://www.instagram.com/gui_carossi/)
+
+- Roteiro: [Gustavo Oliveira](https://theagent.dz9games.com/)
+
+:us:
+
+- Development & Code: [Eduardo Queiróz](https://leduqueiroz.github.io/)
+
+- Illustrations: [Guilherme Carossi](https://www.instagram.com/gui_carossi/)
+
+- Script: [Gustavo Oliveira](https://theagent.dz9games.com/)
 
 ## Contatos / Contact
 
